@@ -1,0 +1,9 @@
+# Guess the Number 🎯
+
+A simple number guessing game written in Python.  
+Choose difficulty, guess the number, and see how many turns you take.
+
+## Features
+- Custom difficulty or choose from Easy/Medium/Hard
+- Error handling for invalid input
+- Replay option after each game
